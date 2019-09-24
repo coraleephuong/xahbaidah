@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohchingiet.wasniowski.pl/sitemap.xml
